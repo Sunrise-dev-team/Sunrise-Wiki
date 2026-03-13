@@ -1,0 +1,10 @@
+
+mNDA/
+trash_bin/
+.obsidian/
+*.bak
+*.tmp
+*.report
+
+# dev branch only!
+*.res
